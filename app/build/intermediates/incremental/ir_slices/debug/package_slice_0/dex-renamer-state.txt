@@ -1,4 +1,4 @@
-#Wed May 15 11:38:08 PDT 2019
+#Wed May 15 11:47:45 PDT 2019
 base.0=/Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex
