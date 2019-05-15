@@ -1,9 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-35:12
-INJECTED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-35:12
-INJECTED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-35:12
-INJECTED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-35:12
+ADDED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/malachias/.gradle/caches/transforms-2/files-2.1/414dc4f576b49c108dca324d89946f35/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/1e41cdc6ec6c8d2614943c9fce575e35/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/e0369a8b28ea68cb31751e05c87bc159/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:cardview-v7:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/83d17c74eb5c0b5e5a22f02b86eceffa/AndroidManifest.xml:17:1-22:12
@@ -17,53 +18,61 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/malachias/.gradl
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/malachias/.gradle/caches/transforms-2/files-2.1/12f240608424a3a3c34c57d59a68e525/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/malachias/.gradle/caches/transforms-2/files-2.1/fd798650ba62fa0e954e13837be5e0a5/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] /Users/malachias/.gradle/caches/transforms-2/files-2.1/02e40e6ec95ec5046972d67571caacef/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-35:12
-INJECTED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-35:12
-INJECTED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-35:12
+INJECTED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:18:5-45
+		ADDED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:3:5-45
 		INJECTED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml
-		ADDED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-35:12
+		ADDED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:2:1-21:12
 		INJECTED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml
-		ADDED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-35:12
+		ADDED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:2:1-21:12
 		INJECTED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:11-69
+		ADDED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:20:5-33:19
+ADDED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/malachias/.gradle/caches/transforms-2/files-2.1/414dc4f576b49c108dca324d89946f35/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/malachias/.gradle/caches/transforms-2/files-2.1/414dc4f576b49c108dca324d89946f35/AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:24:9-35
+		ADDED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:9:9-35
 	android:label
-		ADDED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:23:9-41
+		ADDED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:8:9-41
 	android:icon
-		ADDED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:22:9-43
+		ADDED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:21:9-35
+		ADDED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:25:9-40
+		ADDED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:10:9-40
+activity#com.example.android.materialme.DetailActivity
+ADDED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:11:9-61
+	android:name
+		ADDED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:11:19-49
 activity#com.example.android.materialme.MainActivity
-ADDED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:26:9-32:20
+ADDED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:26:19-77
+		ADDED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:12:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:27:13-31:29
+ADDED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:28:17-69
+ADDED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:28:25-66
+		ADDED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:30:17-77
+ADDED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:30:27-74
+		ADDED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:16:27-74
 uses-sdk
 INJECTED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml
 INJECTED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/malachias/.gradle/caches/transforms-2/files-2.1/414dc4f576b49c108dca324d89946f35/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/malachias/.gradle/caches/transforms-2/files-2.1/414dc4f576b49c108dca324d89946f35/AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/1e41cdc6ec6c8d2614943c9fce575e35/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/1e41cdc6ec6c8d2614943c9fce575e35/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/e0369a8b28ea68cb31751e05c87bc159/AndroidManifest.xml:20:5-44
