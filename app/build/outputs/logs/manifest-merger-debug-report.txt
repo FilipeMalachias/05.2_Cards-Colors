@@ -6,6 +6,7 @@ INJECTED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/
 INJECTED from /Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-35:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/1e41cdc6ec6c8d2614943c9fce575e35/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/e0369a8b28ea68cb31751e05c87bc159/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/83d17c74eb5c0b5e5a22f02b86eceffa/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/fed937deb8ea7ffc07e4bce5a6966d57/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/8d7cc0ba6b6c8dde665221e682851ca9/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/7bf71d9ba7a71b0e3dd53f626d0556a9/AndroidManifest.xml:17:1-22:12
@@ -67,6 +68,8 @@ MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/malachias/.gradle/c
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/1e41cdc6ec6c8d2614943c9fce575e35/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/e0369a8b28ea68cb31751e05c87bc159/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/e0369a8b28ea68cb31751e05c87bc159/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/83d17c74eb5c0b5e5a22f02b86eceffa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/83d17c74eb5c0b5e5a22f02b86eceffa/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/fed937deb8ea7ffc07e4bce5a6966d57/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/fed937deb8ea7ffc07e4bce5a6966d57/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/malachias/.gradle/caches/transforms-2/files-2.1/8d7cc0ba6b6c8dde665221e682851ca9/AndroidManifest.xml:20:5-44
