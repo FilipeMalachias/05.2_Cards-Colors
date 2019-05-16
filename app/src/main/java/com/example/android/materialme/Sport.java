@@ -24,6 +24,7 @@ class Sport {
     // Member variables representing the title and information about the sport.
     private String title;
     private String info;
+    private String detail;
     private final int imageResource;
 
     /**
@@ -32,9 +33,10 @@ class Sport {
      * @param title The name if the sport.
      * @param info Information about the sport.
      */
-    public Sport(String title, String info, int imageResource) {
+    public Sport(String title, String info, String detail, int imageResource) {
         this.title = title;
         this.info = info;
+        this.detail = detail;
         this.imageResource = imageResource;
     }
 
@@ -63,5 +65,15 @@ class Sport {
      */
     public int getImageResource() {
         return imageResource;
+    }
+
+
+    /**
+     * Gets the image.
+     *
+     * @return The detail about the sport.
+     */
+    public String getDetail() {
+        return detail;
     }
 }

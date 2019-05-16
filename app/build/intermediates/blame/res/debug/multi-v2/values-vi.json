@@ -4,7 +4,7 @@
             "outputFile": "/Users/malachias/Android/Lesson 5/MaterialMe-Starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml",
             "map": [
                 {
-                    "source": "/Users/malachias/.gradle/caches/transforms-2/files-2.1/1e41cdc6ec6c8d2614943c9fce575e35/res/values-vi/values-vi.xml",
+                    "source": "/Users/malachias/.gradle/caches/transforms-2/files-2.1/a1088cf9a05df048ee5deebfe16b226b/res/values-vi/values-vi.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/malachias/.gradle/caches/transforms-2/files-2.1/f2950de6db2e41542a11abdd0852a5b1/res/values-vi/values-vi.xml",
+                    "source": "/Users/malachias/.gradle/caches/transforms-2/files-2.1/f6f8969550ac6117625a47a449f34d3e/res/values-vi/values-vi.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

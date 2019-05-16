@@ -91,6 +91,7 @@ public class MainActivity extends AppCompatActivity {
                 .getStringArray(R.array.sports_titles);
         String[] sportsInfo = getResources()
                 .getStringArray(R.array.sports_info);
+        String[] sportsDetail = getResources().getStringArray(R.array.newsSubTitle);
 
         TypedArray sportsImageResources = getResources().obtainTypedArray(R.array.sports_images);
 
@@ -100,7 +101,7 @@ public class MainActivity extends AppCompatActivity {
         // Create the ArrayList of Sports objects with titles and
         // information about each sport.
         for(int i=0;i<sportsList.length;i++){
-            mSportsData.add(new Sport(sportsList[i],sportsInfo[i], sportsImageResources.getResourceId(i,0)));
+            mSportsData.add(new Sport(sportsList[i],sportsInfo[i], sportsDetail[i], sportsImageResources.getResourceId(i,0)));
         }
         sportsImageResources.recycle();
 
